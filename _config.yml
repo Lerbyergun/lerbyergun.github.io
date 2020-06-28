@@ -4,7 +4,7 @@
 title: Lerby Ergun
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Acadamic website
 
 # Your name to show in the footer
 author: Lerby Ergun
@@ -18,7 +18,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,12 +38,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+# social-network-links:
+# email: "someone@example.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -64,11 +63,11 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+# share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
