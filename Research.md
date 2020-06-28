@@ -1,9 +1,8 @@
 ---
 layout: page
-<!--- title: About me 
-subtitle: Why you'd want to go on a date with me --->
+title: Research 
+subtitle: 
 ---
-
 
 ### Book Publications
 + Ergun, L.M., Stork, P.A., 2013. Tail Risk Reduction Strategies. In: Wehn, C.S., Hoppe, C., Gregoriou, G.N. (Eds)., Rethinking Valuation and Pricing Models: Lessons Learned from the Crisis and Future Challenges. Academic Press, Elsevier Inc., pp. 457–470.
