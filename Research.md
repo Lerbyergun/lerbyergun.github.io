@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 
-subtitle:
+<!--- title: About me 
+subtitle: Why you'd want to go on a date with me --->
 ---
 
-## Book Publications
+
+### Book Publications
 + Ergun, L.M., Stork, P.A., 2013. Tail Risk Reduction Strategies. In: Wehn, C.S., Hoppe, C., Gregoriou, G.N. (Eds)., Rethinking Valuation and Pricing Models: Lessons Learned from the Crisis and Future Challenges. Academic Press, Elsevier Inc., pp. 457–470.
 
-## Working Papers
+### Working Papers
 + [Identifying Information Flows in Over-the-Counter Markets: Evidence from a Consensus Pricing Service](Files/Papers/Ergun_HigherOrderBeliefs.pdf) \(with [Andreas Uthemann](https://authe.github.io/)\)\(Best Applied Paper Award, [ESEM 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\) Online Appendix
 + [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf)\(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
 + [Extreme Downside Risk in Asset Returns](Files/Papers/DisasterRisk.pdf)
