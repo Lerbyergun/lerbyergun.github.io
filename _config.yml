@@ -12,7 +12,7 @@ description: Acadamic website
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  CV: "aboutme"
   Research: "Research"
   
 # --- Logo --- #
