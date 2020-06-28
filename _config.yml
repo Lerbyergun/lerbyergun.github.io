@@ -13,6 +13,8 @@ author: Lerby Ergun
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
+  Research: "Research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
