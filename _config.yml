@@ -7,7 +7,7 @@ title: Lerby Ergun
 description: Acadamic website
 
 # Your name to show in the footer
-#author: Lerby Ergun
+author: Lerby Ergun
 
 # --- List of links in the navigation bar --- #
 
@@ -38,7 +38,7 @@ round-avatar: false
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
-  rss: true
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
