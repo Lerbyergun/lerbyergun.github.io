@@ -18,4 +18,4 @@ subtitle:
 
 + [Risk-Adjusted Returns and Loss Avoidance in Technical Trading Rules](Files/Papers/TechTradingStrategy.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)
 
-+ Factors hiding in the tails: Bias in cross-sectional tail estimates \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)
++ [Factors hiding in the tails: Bias in cross-sectional tail estimates](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)
