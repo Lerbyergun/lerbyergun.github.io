@@ -10,7 +10,7 @@ subtitle:
 ### Working Papers
 + [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](Files/Papers/ErgunUthemann_StrategicUncertainty.pdf) \(with [Andreas Uthemann](https://authe.github.io/)\)  
 [Online Appendix](Files/Papers/HigherOrderBelieves_OnlineAppendix.pdf)  
-\(Best Applied Paper Award, [Econometric Society European Meeting Award 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\)
+\(Best Applied Paper Award, [Econometric Society European Meeting Award 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\)  
 R&R *The Journal of Finance*
 
 + [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf)\(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
