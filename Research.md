@@ -23,4 +23,4 @@ R&R *The Journal of Finance*
 
 + [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)
 
-+ [The calming of short-term market fear and its long-term consequences: The central banks' dilemma](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua] (https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \) 
++ [The calming of short-term market fear and its long-term consequences: The central banks' dilemma](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua](https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \) 
