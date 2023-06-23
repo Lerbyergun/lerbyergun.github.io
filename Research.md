@@ -20,7 +20,7 @@ R&R *The Journal of Finance*
 
 + [Worst-case analysis](Files/Papers/WorstCaseAnalysis.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
 
-+ [Risk-Adjusted Returns and Loss Avoidance in Technical Trading Rules](Files/Papers/TechTradingStrategy.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)
++ [Risk-Adjusted Returns and Loss Avoidance in Technical Trading Rules](Files/Papers/TechTradingStrategy.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)\
 R&R *Pacific-Basin Finance Journal*
 
 + [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
