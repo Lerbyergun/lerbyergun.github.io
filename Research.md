@@ -7,7 +7,7 @@ subtitle:
 + [Extreme Downside Risk in Asset Returns](https://www.sciencedirect.com/science/article/pii/S1057521923003563)\
  International Review of Financial Analysis (2023), 90,102840.
 
-+ [Technical trading rules, loss avoidance, and the business cycle](Files/Papers/TechTradingStrategy.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)\
++ [Technical trading rules, loss avoidance, and the business cycle](Files/Papers/FinalVersionTTR.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)\
 Pacific-Basin Finance Journal (forthcoming)
 
 ### Book Publications
