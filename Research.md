@@ -20,7 +20,7 @@ Pacific-Basin Finance Journal (forthcoming)
 R&R *The Journal of Finance*
 
 + [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)\
-R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.r)
+R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 
 + [Worst-case analysis](Files/Papers/WorstCaseAnalysis.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
 
