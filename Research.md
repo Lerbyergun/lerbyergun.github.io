@@ -19,7 +19,8 @@ Pacific-Basin Finance Journal (forthcoming)
 \(Best Applied Paper Award, [Econometric Society European Meeting Award 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\)  
 R&R *The Journal of Finance*
 
-+ [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
++ [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)\
+R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.r)
 
 + [Worst-case analysis](Files/Papers/WorstCaseAnalysis.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
 
