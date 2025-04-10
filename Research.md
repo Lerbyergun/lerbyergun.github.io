@@ -35,5 +35,3 @@ R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 ### Work in progress
 + Limits to Arbitrage in the Market for Collateral (with [Adrian Walton](https://www.bankofcanada.ca/profile/adrian-walton/), [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home?authuser=0) and [Andreas Uthemann](https://authe.github.io/))
 + Discontious aversion to large losses: What can options tell us \(with [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home)\)
-+ Extending the tails: A quantum computing approach (with Noorain Noorani, [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) and Valerio Astuti)
-+ The tail scale parameter: An indirect inference approach for the ARCH process \(with Milian Bachem and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
