@@ -19,7 +19,7 @@ Pacific-Basin Finance Journal (2023), 82, 102172.
 \(Best Applied Paper Award, [Econometric Society European Meeting Award 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\)  
 R&R *The Journal of Finance*
 
-+ [The impact term structure of central bank crisis interventions](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua](https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \)
++ [The impact term structure of central bank crisis interventions](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua](https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \)\
 R&R *The Journal Money, Credit and Banking*
 
 + [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)\
