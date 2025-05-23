@@ -30,7 +30,7 @@ R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 + [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
   [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)
 
-+ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) 
++ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) 
 
 ### Work in progress
 + Limits to Arbitrage in the Market for Collateral (with [Adrian Walton](https://www.bankofcanada.ca/profile/adrian-walton/), [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home?authuser=0) and [Andreas Uthemann](https://authe.github.io/))
