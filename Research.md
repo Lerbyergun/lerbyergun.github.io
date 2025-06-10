@@ -32,7 +32,7 @@ R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 
 + [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/)
   
-+ [Disappointment aversion preferences and Option Pricing](Files/Papers/The_price_of_disappointment_aversionWeb.pdf) \(with [Bruno Feunou]([https://sites.google.com/view/bruno-feunou/home]) 
++ [Disappointment aversion preferences and Option Pricing](Files/Papers/The_price_of_disappointment_aversionWeb.pdf) \(with [Bruno Feunou](https://sites.google.com/view/bruno-feunou/home)\)
 
 ### Work in progress
 + Limits to Arbitrage in the Market for Collateral (with [Adrian Walton](https://www.bankofcanada.ca/profile/adrian-walton/), [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home?authuser=0) and [Andreas Uthemann](https://authe.github.io/))
