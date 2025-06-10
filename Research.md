@@ -30,8 +30,10 @@ R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 + [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
   [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)
 
-+ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) 
++ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/)
+  
++ [Disappointment aversion preferences and Option Pricing](Files/Papers/The_price_of_disappointment_aversionWeb.pdf) \(with [Bruno Feunou]([https://sites.google.com/view/bruno-feunou/home]) 
 
 ### Work in progress
 + Limits to Arbitrage in the Market for Collateral (with [Adrian Walton](https://www.bankofcanada.ca/profile/adrian-walton/), [Shengxing Zhang](https://sites.google.com/site/oo7zsx/home?authuser=0) and [Andreas Uthemann](https://authe.github.io/))
-+ Discontious aversion to large losses: What can options tell us \(with [Bruno Feunou Kamkui](https://sites.google.com/view/bruno-feunou/home)\)
+
