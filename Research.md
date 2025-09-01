@@ -26,12 +26,15 @@ R&R *The Journal Money, Credit and Banking*
   [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)\
 R&R *The Econometrics Journal*
 
++ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/\) \
++ R&R *Journal of Economic Dynamics and Control*
+
 + [Tail Index Estimation: Quantile-Driven Threshold Selection](Files/Papers/LerbyTailIndexEstimation.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)\
 R code KS-quantile metric [here](Files/Code/KSQuantileMetricWebsite.R)
 
 + [Worst-case analysis](Files/Papers/WorstCaseAnalysis.pdf) \(with [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/) and [Casper de Vries](https://personal.eur.nl/cdevries/)\)
 
-+ [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/)
+
   
 + [Disappointment aversion preferences and Option Pricing](Files/Papers/The_price_of_disappointment_aversionWeb.pdf) \(with [Bruno Feunou](https://sites.google.com/view/bruno-feunou/home)\)
 
