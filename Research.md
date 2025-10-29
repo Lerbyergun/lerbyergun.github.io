@@ -15,9 +15,8 @@ Pacific-Basin Finance Journal (2023), 82, 102172.
 
 ### Working Papers
 + [Strategic Uncertainty in Financial Markets: Evidence from a Consensus Pricing Service](Files/Papers/ErgunUthemann_StrategicUncertainty.pdf) \(with [Andreas Uthemann](https://authe.github.io/)\)  
-[Online Appendix](Files/Papers/HigherOrderBelieves_OnlineAppendix.pdf)  
 \(Best Applied Paper Award, [Econometric Society European Meeting Award 2017](https://www.econometricsociety.org/content/2017-econometric-society-european-meeting-awards)\)  
-R&R *The Journal of Finance*
+R&R *The Journal of Finance* <!--[Online Appendix](Files/Papers/HigherOrderBelieves_OnlineAppendix.pdf)  -->
 
 + [The impact term structure of central bank crisis interventions](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua](https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \)\
 R&R *The Journal Money, Credit and Banking*
