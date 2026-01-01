@@ -10,6 +10,12 @@ subtitle:
 + [Technical trading rules, loss avoidance, and the business cycle](Files/Papers/FinalVersionTTR.pdf) \(with [Philip Stork](https://research.vu.nl/en/persons/philip-stork) and [Sasha Molchanov](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=507930)\)\
 Pacific-Basin Finance Journal (2023), 82, 102172.
 
++ [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
+  [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)\
+  The Econometrics Journal, *forthcoming*
+
+
+
 ### Book Publications
 + Ergun, L.M., Stork, P.A., 2013. Tail Risk Reduction Strategies. In: Wehn, C.S., Hoppe, C., Gregoriou, G.N. (Eds)., Rethinking Valuation and Pricing Models: Lessons Learned from the Crisis and Future Challenges. Academic Press, Elsevier Inc., pp. 457–470.
 
