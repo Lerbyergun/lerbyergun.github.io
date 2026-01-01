@@ -27,10 +27,6 @@ R&R *The Journal of Finance* <!--[Online Appendix](Files/Papers/HigherOrderBelie
 + [The impact term structure of central bank crisis interventions](Files/Papers/ConsequencesFedActions.pdf) \(with [Mattia Bevilacqua](https://sites.google.com/view/mattiabevilacqua/home), [Jon Danielsson](https://www.modelsandrisk.org/JonDanielsson/), [Andreas Uthemann](https://authe.github.io/) and [Jean-Pierre Zigrand](https://www.lse.ac.uk/finance/people/faculty/Zigrand) \)\
 R&R *The Journal Money, Credit and Banking*
 
-+ [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
-  [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)\
-R&R *The Econometrics Journal*
-
 + [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) )\
 R&R *Journal of Economic Dynamics and Control*
 
