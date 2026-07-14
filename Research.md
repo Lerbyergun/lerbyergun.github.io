@@ -12,7 +12,8 @@ Pacific-Basin Finance Journal (2023), 82, 102172.
 
 + [Covariates hiding in the tails](Files/Papers/Factorshidinginthetails.pdf) \(with [Casper de Vies](https://personal.eur.nl/cdevries/) and Milian Bachem\)\
   [Online Appendix](Files/Papers/Covariates_hiding_in_the_tailsOnlineAppendix.pdf)\
-  The Econometrics Journal, *forthcoming*.
+  The Econometrics Journal (2026), Volume 29, Issue 2, Pages 170–192.\
+  *Editor's Choice*
   
 + [Simulating Economic Heavy-Tailed Distributions with the Quantum Boltzmann Machine](Files/Papers/Risk_Management_QuantumComputing2.pdf) \(with Noorain Noorani, Valerio Astuti, Giuseppe Bruno and [Vladimir Skavysh](https://www.bankofcanada.ca/profile/vladimir-skavysh/) )\
 Journal of Economic Dynamics and Control (2026), 190, 105387.
